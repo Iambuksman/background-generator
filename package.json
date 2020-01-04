@@ -1,0 +1,23 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "This is a background Generator.\r I added a bounce animation. Got the idea from animate.css.",
+  "main": "script.js",
+  "dependencies": {
+    "animate.css": "^3.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iambuksman/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iambuksman/background-generator/issues"
+  },
+  "homepage": "https://github.com/Iambuksman/background-generator#readme"
+}
