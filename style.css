@@ -9,7 +9,11 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
     font: 600 3.5em 'Raleway', sans-serif; 
+=======
+    /* font: 600 3.5em 'Raleway', sans-serif; */
+>>>>>>> readjusted
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
